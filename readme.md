@@ -1,8 +1,4 @@
 #LALU HI KESA HE?
 
-<<<<<<< HEAD
-LAWDE
-=======
 
 CHUTIA
->>>>>>> b1c324559065292d6cc50215bcb8b84d29a94330
